@@ -18,8 +18,8 @@ public class Items {
 
     private String detail;
 
-    private String a11;
-    private String b11;
+    private String a2;
+    private String b2;
 
     public Integer getId() {
         return id;
